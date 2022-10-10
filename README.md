@@ -1,5 +1,7 @@
 # web3-react (beta)
 some change 1
+some change 2
+some change 3
 [![CI](https://github.com/Uniswap/web3-react/actions/workflows/CI.yml/badge.svg)](https://github.com/Uniswap/web3-react/actions/workflows/CI.yml)
 
 _Looking for the prior version of this library? It's available on the [v6 branch](https://github.com/Uniswap/web3-react/tree/v6)._
